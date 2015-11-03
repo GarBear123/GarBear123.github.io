@@ -8,5 +8,16 @@ a{
 	font-size:20px;
 }
 .about{
-	color:navy;
+	color:black;
+	text-align: left;
+	
+}
+/* solid border = disregard, old stuff; dotted border = one I'm using atm     */
+.persuade{
+	border:solid black 2px;
+	border-radius:
+}
+.research{
+	border: dotted grey 2px;
+	border-radius:5px;
 }
